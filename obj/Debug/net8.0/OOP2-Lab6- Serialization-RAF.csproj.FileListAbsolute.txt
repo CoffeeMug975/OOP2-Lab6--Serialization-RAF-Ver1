@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\Get it done now\OOP2-Lab6- Serialization-RAF\bin\Debug\net8.0\OOP2-Lab6- Serialization-RAF.exe
+C:\Users\danie\Desktop\Get it done now\OOP2-Lab6- Serialization-RAF\bin\Debug\net8.0\OOP2-Lab6- Serialization-RAF.deps.json
+C:\Users\danie\Desktop\Get it done now\OOP2-Lab6- Serialization-RAF\bin\Debug\net8.0\OOP2-Lab6- Serialization-RAF.runtimeconfig.json
+C:\Users\danie\Desktop\Get it done now\OOP2-Lab6- Serialization-RAF\bin\Debug\net8.0\OOP2-Lab6- Serialization-RAF.dll
+C:\Users\danie\Desktop\Get it done now\OOP2-Lab6- Serialization-RAF\bin\Debug\net8.0\OOP2-Lab6- Serialization-RAF.pdb
+C:\Users\danie\Desktop\Get it done now\OOP2-Lab6- Serialization-RAF\obj\Debug\net8.0\OOP2-Lab6- Serialization-RAF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Get it done now\OOP2-Lab6- Serialization-RAF\obj\Debug\net8.0\OOP2-Lab6- Serialization-RAF.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Get it done now\OOP2-Lab6- Serialization-RAF\obj\Debug\net8.0\OOP2-Lab6- Serialization-RAF.AssemblyInfo.cs
+C:\Users\danie\Desktop\Get it done now\OOP2-Lab6- Serialization-RAF\obj\Debug\net8.0\OOP2-Lab6- Serialization-RAF.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Get it done now\OOP2-Lab6- Serialization-RAF\obj\Debug\net8.0\OOP2-Lab6- Serialization-RAF.sourcelink.json
+C:\Users\danie\Desktop\Get it done now\OOP2-Lab6- Serialization-RAF\obj\Debug\net8.0\OOP2-Lab6- Serialization-RAF.dll
+C:\Users\danie\Desktop\Get it done now\OOP2-Lab6- Serialization-RAF\obj\Debug\net8.0\refint\OOP2-Lab6- Serialization-RAF.dll
+C:\Users\danie\Desktop\Get it done now\OOP2-Lab6- Serialization-RAF\obj\Debug\net8.0\OOP2-Lab6- Serialization-RAF.pdb
+C:\Users\danie\Desktop\Get it done now\OOP2-Lab6- Serialization-RAF\obj\Debug\net8.0\OOP2-Lab6- Serialization-RAF.genruntimeconfig.cache
+C:\Users\danie\Desktop\Get it done now\OOP2-Lab6- Serialization-RAF\obj\Debug\net8.0\ref\OOP2-Lab6- Serialization-RAF.dll
