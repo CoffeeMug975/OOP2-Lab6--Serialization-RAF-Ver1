@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\Get it done now\\OOP2-Lab6- Serialization-RAF\\",
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\GitIt\\OOP2-Lab6--Serialization-RAF-Ver1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E54213D1-AE45-4FB7-BD5D-D90A76F4CD33}|OOP2-Lab6- Serialization-RAF.csproj|c:\\users\\danie\\desktop\\get it done now\\oop2-lab6- serialization-raf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E54213D1-AE45-4FB7-BD5D-D90A76F4CD33}|OOP2-Lab6- Serialization-RAF.csproj|c:\\users\\danie\\desktop\\gitit\\oop2-lab6--serialization-raf-ver1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E54213D1-AE45-4FB7-BD5D-D90A76F4CD33}|OOP2-Lab6- Serialization-RAF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54213D1-AE45-4FB7-BD5D-D90A76F4CD33}|OOP2-Lab6- Serialization-RAF.csproj|c:\\users\\danie\\desktop\\gitit\\oop2-lab6--serialization-raf-ver1\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54213D1-AE45-4FB7-BD5D-D90A76F4CD33}|OOP2-Lab6- Serialization-RAF.csproj|solutionrelative:event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\GitIt\\OOP2-Lab6--Serialization-RAF-Ver1\\Event.cs",
+              "RelativeDocumentMoniker": "Event.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\GitIt\\OOP2-Lab6--Serialization-RAF-Ver1\\Event.cs",
+              "RelativeToolTip": "Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:20:12.894Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Get it done now\\OOP2-Lab6- Serialization-RAF\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\GitIt\\OOP2-Lab6--Serialization-RAF-Ver1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\Get it done now\\OOP2-Lab6- Serialization-RAF\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\GitIt\\OOP2-Lab6--Serialization-RAF-Ver1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwC8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T05:08:27.851Z",
               "EditorCaption": ""

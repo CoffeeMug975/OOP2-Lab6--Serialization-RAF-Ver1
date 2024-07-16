@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\Desktop\\Get it done now\\OOP2-Lab6- Serialization-RAF\\OOP2-Lab6- Serialization-RAF.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\Desktop\\GitIt\\OOP2-Lab6--Serialization-RAF-Ver1\\OOP2-Lab6- Serialization-RAF.csproj",
       "projectName": "OOP2-Lab6- Serialization-RAF",
-      "projectPath": "C:\\Users\\danie\\Desktop\\Get it done now\\OOP2-Lab6- Serialization-RAF\\OOP2-Lab6- Serialization-RAF.csproj",
+      "projectPath": "C:\\Users\\danie\\Desktop\\GitIt\\OOP2-Lab6--Serialization-RAF-Ver1\\OOP2-Lab6- Serialization-RAF.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danie\\Desktop\\Get it done now\\OOP2-Lab6- Serialization-RAF\\obj\\",
+      "outputPath": "C:\\Users\\danie\\Desktop\\GitIt\\OOP2-Lab6--Serialization-RAF-Ver1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
