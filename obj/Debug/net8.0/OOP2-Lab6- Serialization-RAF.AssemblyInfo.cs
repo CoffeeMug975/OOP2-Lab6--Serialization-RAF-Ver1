@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP2-Lab6- Serialization-RAF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2f5570947b058a53c5e10de041c43a8d2cf872a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faa949fb9620591ba73fb40a9c5e2accc04a25b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP2-Lab6- Serialization-RAF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP2-Lab6- Serialization-RAF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -24,7 +24,7 @@ namespace OOP2_Lab6__Serialization_RAF
         //}
         public override string ToString()
         {
-            string info = ($"Event Number: {EventNumber}\nLocation: {Location}\n");
+            string info = ($"Event Number: {EventNumber}\n\nLocation: {Location}\n");
             return info;
         }
     }
